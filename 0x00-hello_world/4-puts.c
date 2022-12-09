@@ -3,7 +3,8 @@
  * main - main block
  * Return: o
  */
+int main(void)
 {
-	put("\"programming is like building a multilingual puzzle");
+	put("\"Programming is like building a multilingual puzzle");
 	return (0);
 }	
